@@ -1,0 +1,8 @@
+{
+  "name": "____SAMRIDDHI | National Digital Services",
+  "description": "A unified, modern government services platform for citizens to access welfare schemes, healthcare, and digital documentation with a built-in Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
